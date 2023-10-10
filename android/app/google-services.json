@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312731036011",
+    "project_id": "shurk-2ae2a",
+    "storage_bucket": "shurk-2ae2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312731036011:android:208b5a0e603d3a895cc42e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMd5WvpJhmK9m17zfNx_rmln8hZFVByZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
